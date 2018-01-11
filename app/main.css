@@ -1,0 +1,18 @@
+/*main.css*/
+html{
+    box-sizing: border-box;
+    -ms-text-size-adjust: 100%;//解决手机端横屏字体变化的问题
+    -webkit-text-size-adjust: 100%;
+}
+*,*:before,*:after{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    /*background-color: #f00;*/
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0;
+    padding: 0;
+}
